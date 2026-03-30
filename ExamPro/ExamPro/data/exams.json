@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Data Structures & Algorithms",
+    "code": "CS301",
+    "department": "Computer Science",
+    "status": "live",
+    "duration": 30,
+    "totalMarks": 30,
+    "passMark": 12,
+    "questionsCount": 10,
+    "scheduledAt": "2026-03-02T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Database Management Systems",
+    "code": "CS302",
+    "department": "Computer Science",
+    "status": "live",
+    "duration": 25,
+    "totalMarks": 24,
+    "passMark": 10,
+    "questionsCount": 8,
+    "scheduledAt": "2026-03-02T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Operating Systems",
+    "code": "CS303",
+    "department": "Computer Science",
+    "status": "upcoming",
+    "duration": 40,
+    "totalMarks": 40,
+    "passMark": 16,
+    "questionsCount": 0,
+    "scheduledAt": "2026-03-05T09:00:00Z"
+  }
+]

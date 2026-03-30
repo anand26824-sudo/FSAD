@@ -1,0 +1,14 @@
+{
+  "CS301": [
+    { "id": 1, "q": "Which data structure uses LIFO order?", "opts": ["Queue","Stack","Linked List","Heap"], "ans": 1, "marks": 3 },
+    { "id": 2, "q": "Time complexity of binary search is:", "opts": ["O(n)","O(n²)","O(log n)","O(n log n)"], "ans": 2, "marks": 3 },
+    { "id": 3, "q": "Which sorting algorithm has best average-case O(n log n)?", "opts": ["Bubble Sort","Insertion Sort","Merge Sort","Selection Sort"], "ans": 2, "marks": 3 },
+    { "id": 4, "q": "A complete binary tree with n nodes has height:", "opts": ["n","log₂n","n/2","2n"], "ans": 1, "marks": 3 },
+    { "id": 5, "q": "Worst-case time complexity of QuickSort?", "opts": ["O(n log n)","O(n²)","O(n)","O(log n)"], "ans": 1, "marks": 3 }
+  ],
+  "CS302": [
+    { "id": 1, "q": "Which SQL command retrieves data?", "opts": ["INSERT","UPDATE","SELECT","DELETE"], "ans": 2, "marks": 3 },
+    { "id": 2, "q": "ACID stands for:", "opts": ["Atomicity Consistency Isolation Durability","Accuracy Clarity Integrity Data","Atomicity Control Integrity Design","None"], "ans": 0, "marks": 3 },
+    { "id": 3, "q": "A foreign key refers to:", "opts": ["Primary key of same table","Primary key of another table","Any unique column","Index column"], "ans": 1, "marks": 3 }
+  ]
+}

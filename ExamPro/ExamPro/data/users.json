@@ -1,0 +1,5 @@
+[
+  { "id": "2024CS001", "name": "Priya Sharma",   "dept": "Computer Science", "role": "student" },
+  { "id": "2024CS002", "name": "Rahul Mehta",    "dept": "Computer Science", "role": "student" },
+  { "id": "ADMIN001",  "name": "Dr. A. Kumar",   "dept": "Administration",   "role": "admin"   }
+]

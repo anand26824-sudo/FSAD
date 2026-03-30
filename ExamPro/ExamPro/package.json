@@ -1,0 +1,17 @@
+{
+  "name": "exampro",
+  "version": "1.0.0",
+  "description": "Dynamic Online Examination & Result Processing System",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo 'Build ready'",
+    "test": "echo 'No tests yet'"
+  },
+  "keywords": ["exam", "online", "education", "mcq", "result"],
+  "author": "ExamPro Team",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

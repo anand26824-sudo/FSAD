@@ -1,0 +1,6 @@
+[
+  { "code": "CS301", "name": "Data Structures & Algorithms", "credits": 4, "dept": "Computer Science" },
+  { "code": "CS302", "name": "Database Management Systems",  "credits": 3, "dept": "Computer Science" },
+  { "code": "CS303", "name": "Operating Systems",            "credits": 4, "dept": "Computer Science" },
+  { "code": "CS304", "name": "Computer Networks",            "credits": 3, "dept": "Computer Science" }
+]
